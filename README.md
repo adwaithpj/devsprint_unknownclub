@@ -1,6 +1,6 @@
 # devsprint_unknownclub
 
-# team members
+# Team members
 * Utkarsh Nigam - @utkarshnigm
 * Aditya Narayan Choudhury - @adityasubham03
 * Sourav Goel - @Coder-SouravGoel
